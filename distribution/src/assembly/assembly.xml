@@ -33,7 +33,7 @@
         		<include>com.vaadin.external.flute:flute:</include>
         		<include>com.vaadin.liferay:com.vaadin.liferay.resources:</include>
         		<include>com.vaadin.liferay:com.vaadin.liferay.compatibility:</include>
-        		<include>com.vaadin.osgi:com.vaadin.osgi:</include>
+        		<include>com.vaadin.liferay:com.vaadin.liferay.osgi:</include>
         	</includes>
         </dependencySet>       
     </dependencySets>
